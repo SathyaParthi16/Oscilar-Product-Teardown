@@ -264,12 +264,7 @@ With packs:   [Starter pack ──][Customize ────] ➜ Go live   ⏱️
 - **Measuring "95% routine":** How is a "routine" alert defined, and how often is that label wrong?
 - **Pricing:** One G2 reviewer calls the price high. Does the agent value justify it for smaller fintechs?
 
-## 8. Questions I would ask the Oscilar team
 
-1. What is the current acceptance rate of L1 agent recommendations, and what drives overrides?
-2. How do customers review and approve an agent before letting it act on live alerts?
-3. What is the biggest source of friction for analysts in case management today?
-4. How do sponsor banks and their fintech partners share cases in practice?
 
 ---
 
